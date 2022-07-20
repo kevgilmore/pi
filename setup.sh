@@ -1,5 +1,5 @@
-# To run
-# sudo ./setup.sh
+#!/usr/bin/env bash
 
+apt update -y
 apt install vim -y
-echo " usbhid.mousepoll=2" >> /boot/cmdline.txt
+apt install zsh -y

@@ -7,7 +7,7 @@ tee -a lxsession/LXDE-pi/autostart << END
 @pcmanfm --desktop --profile LXDE-pi
 #@xscreensaver -no-splash
 point-rpi
-@chromium-browser --start-fullscreen --start-maximized --disable-session-crashed-bubble
+@chromium-browser --start-fullscreen --start-maximized https://www.google.com
 END
 
 

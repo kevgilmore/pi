@@ -1,4 +1,4 @@
-cd .config
+cd ~/.config
 
 sudo mkdir -p lxsession/LXDE-pi
 

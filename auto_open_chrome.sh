@@ -1,6 +1,6 @@
 cd ~/.config
 
-sudo mkdir -p lxsession/LXDE-pi
+mkdir -p lxsession/LXDE-pi
 
 tee -a lxsession/LXDE-pi/autostart << END
 @lxpanel --profile LXDE-pi

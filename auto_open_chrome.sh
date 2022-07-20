@@ -1,4 +1,4 @@
-cd ~/.config
+cd /home/pi/.config
 
 mkdir -p lxsession/LXDE-pi
 
